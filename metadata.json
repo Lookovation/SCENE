@@ -1,0 +1,5 @@
+{
+  "name": "BooksToReel MVP",
+  "description": "Convert text, books, and manga into short video reels using AI. Features scene analysis, customization, and frame-by-frame editing.",
+  "requestFramePermissions": []
+}
